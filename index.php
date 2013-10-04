@@ -6,7 +6,7 @@
 		<script src="http://folkos.com/core/elemlib.js"></script>
 		<script src="http://folkos.com/core/crossbrowse.js"></script>
 		<script src="http://folkos.com/core/node_pro.js"></script>
-		<script src="/itfa/script.js"></script>
+		<script src="script.js"></script>
 	</head>
 	<body>
 		<script>
