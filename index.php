@@ -3,9 +3,9 @@
 	<head>
 		<title>Web Topology Editor</title>
 		<link rel="stylesheet" type="text/css" href="index.css">
-		<script src="/core/elemlib.js"></script>
-		<script src="/core/crossbrowse.js"></script>
-		<script src="/core/node_pro.js"></script>
+		<script src="http://folkos.com/core/elemlib.js"></script>
+		<script src="http://folkos.com/core/crossbrowse.js"></script>
+		<script src="http://folkos.com/core/node_pro.js"></script>
 		<script src="/itfa/script.js"></script>
 	</head>
 	<body>
